@@ -18,8 +18,5 @@ If you find this code useful in your research, please, consider citing our paper
  >pages = {1497--1500},
  >numpages = {4},
  >url = {http://dl.acm.org/citation.cfm?id=2971808.2972157},
- >acmid = {2972157},
- >publisher = {EDA Consortium},
- >address = {San Jose, CA, USA},
  >keywords = {FPGA, background subtraction, gaussian mixture model, low power, monitoring, surveillance},
 >} 
