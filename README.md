@@ -1,4 +1,4 @@
-### Cite A novel background subtraction scheme for in-camera acceleration in thermal imagery
+### A novel background subtraction scheme for in-camera acceleration in thermal imagery
 This is the code for the following paper:
 
 Antonis Nikitakis, Ioannis Papaefstathiou, Konstantinos Makantasis, and Anastasios Doulamis. 2016. A novel background subtraction scheme for in-camera acceleration in thermal imagery. In Proceedings of the 2016 Conference on Design, Automation & Test in Europe (DATE '16). EDA Consortium, San Jose, CA, USA, 1497-1500.
